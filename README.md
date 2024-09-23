@@ -39,7 +39,7 @@ Go Segunda
 On 2
 Go Primera
 Home
-Ga Caja
+Go Caja
 off 2
 Go Tercera
 Go Cuarta
@@ -47,6 +47,7 @@ On 2
 Go Tercera
 Home
 Fend
-
+            EXPLICACIÓN 
+Se estableció el punto de inicio "Home" y, mediante el comando Go, se indicó al robot que se desplazara al primer punto y, a continuación, al segundo. Al llegar al segundo punto, el brazo robótico ya se encontraba sobre el objeto, por lo que con el comando Off y el valor 2 (predefinido para la garra) se cerró la garra y se tomó el objeto. Seguidamente, se le ordenó regresar al primer punto para asegurar un movimiento seguro, y después se dirigió al punto caja, donde se encontraba el lugar de destino soltando el objeto con Off 2. Una vez allí, el comando On 2 permitió abrir la garra y soltar el objeto. Regresa al punto Home para no tener una colisión, se mueve al tercer punto para después llegar a la cuarta posición para agarrar la pieza con el comando On 2, regresa a la Tercera posición, pasa a la primera finalizando en segunda posición para tomar el objeto con On 2, regresa a la primera posición, a su punto Home para de ahí tomar el objeto en caja On 2, llevando a Tercera y cuarta posición para soltar con off 2 el objeto dando finalizado el código.
 
 
