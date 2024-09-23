@@ -21,4 +21,32 @@ En esta práctica, el objetivo es implementar un código que permita controlar u
 - Programación final mediante código
   
   Para implementar la lógica del movimiento según las coordenadas definidas, se accedió a la ventana "Main" del software y se escribió el siguiente código:
+  Function main
+Home
+Go Primera
+Go Segunda
+Off 2
+Go Primera
+Go Caja
+On 2
+Home
+Go Tercera
+Go Cuarta
+Off 2
+Go Tercera
+Go Primera
+Go Segunda
+On 2
+Go Primera
+Home
+Ga Caja
+off 2
+Go Tercera
+Go Cuarta
+On 2
+Go Tercera
+Home
+Fend
+
+
 
